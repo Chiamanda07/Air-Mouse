@@ -19,7 +19,7 @@ Before fleshing out the circuit, I made a [TinkerCad circuit](https://www.tinker
 ---
 
 ## Code 
-[Sample code]
+[Code](air_mouse_code.ino)
 The main libraries that I used before I started are: 
 - ESP32 BLE Mouse by T-vK (From [this github](https://github.com/T-vK/ESP32-BLE-Mouse?))
 - MPU6050 by Electronic Cats
